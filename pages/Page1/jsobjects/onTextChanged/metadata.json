@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "onTextChanged",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page1_onTextChanged",
+  "deleted": false,
+  "gitSyncId": "6657fa5693cd9b03a1028772_0a8c9d6a-6848-4b71-8a12-63fb6a6daef2"
+}
